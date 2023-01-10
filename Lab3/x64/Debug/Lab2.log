@@ -1,0 +1,31 @@
+﻿  AppWindow.cpp
+\\Mac\Home\Downloads\Lab2 3\AppWindow.cpp(12,12): warning C4244: инициализация: преобразование "float" в "Uint64", возможна потеря данных
+\\Mac\Home\Downloads\Lab2 3\AppWindow.cpp(81,25): warning C4244: аргумент: преобразование "Uint64" в "Uint32", возможна потеря данных
+  Lab2.cpp
+\\Mac\Home\Downloads\Lab2 3\Functions.h(23,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+\\Mac\Home\Downloads\Lab2 3\Functions.h(23,70): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+\\Mac\Home\Downloads\Lab2 3\Functions.h(28,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+\\Mac\Home\Downloads\Lab2 3\Functions.h(30,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+\\Mac\Home\Downloads\Lab2 3\Lab2.cpp(14,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+\\Mac\Home\Downloads\Lab2 3\Lab2.cpp(15,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+\\Mac\Home\Downloads\Lab2 3\Lab2.cpp(16,19): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+\\Mac\Home\Downloads\Lab2 3\Lab2.cpp(77,24): warning C4244: инициализация: преобразование "double" в "uint8_t", возможна потеря данных
+\\Mac\Home\Downloads\Lab2 3\Lab2.cpp(111,1): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+\\Mac\Home\Downloads\Lab2 3\Lab2.cpp(112,1): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  MImageCalculator.cpp
+\\Mac\Home\Downloads\Lab2 3\Functions.h(23,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+\\Mac\Home\Downloads\Lab2 3\Functions.h(23,70): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+\\Mac\Home\Downloads\Lab2 3\Functions.h(28,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+\\Mac\Home\Downloads\Lab2 3\Functions.h(30,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+\\Mac\Home\Downloads\Lab2 3\MImageCalculator.cpp(28,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+\\Mac\Home\Downloads\Lab2 3\MImageCalculator.cpp(43,11): warning C4244: инициализация: преобразование "float" в "Uint8", возможна потеря данных
+  Texture.cpp
+  imgui_impl_sdl.cpp
+  imgui_impl_sdlrenderer.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Создание кода...
+  Lab2.vcxproj -> \\Mac\Home\Downloads\Lab2 3\x64\Debug\Lab2.exe

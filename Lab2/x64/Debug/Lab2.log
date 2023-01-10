@@ -1,0 +1,7 @@
+﻿  Lab2.cpp
+\\Mac\Home\Downloads\Lab2\Functions.h(15,14): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+\\Mac\Home\Downloads\Lab2\Functions.h(16,14): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+\\Mac\Home\Downloads\Lab2\Functions.h(17,20): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+\\Mac\Home\Downloads\Lab2\Examples.h(28,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+\\Mac\Home\Downloads\Lab2\Examples.h(39,13): warning C4244: инициализация: преобразование "float" в "Uint8", возможна потеря данных
+  Lab2.vcxproj -> \\Mac\Home\Downloads\Lab2\x64\Debug\Lab2.exe
